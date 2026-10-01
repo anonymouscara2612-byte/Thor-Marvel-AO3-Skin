@@ -256,7 +256,7 @@ div.social.module {
 
 .social.module p {
   padding-left: 90px;
-  background: url("https://i.postimg.cc/d0qj86rq/Follow-Us-Icon.png");
+  background: url("https://i.postimg.cc/GpnQCTby/Follow-Us.png");
   background-size: 80px 120px;
   background-position-x: left;
   background-position-y: top;
